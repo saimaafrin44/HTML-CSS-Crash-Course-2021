@@ -1,13 +1,17 @@
 img {
-    width: 300px;
-    border-radius: 50px; 
-    float: left;
-    margin-right: 10px;
+  width: 300px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 10px;
 
-   /*  border radius half of the width picture will bw round  */
-
+  /*  border radius half of the width picture will bw round  */
 }
 
 p.username {
-    font-weight: bold;
+  font-weight: bold;
+}
+
+em {
+  color: rgb(38, 35, 211);
+  font-style: normal;
 }
